@@ -45,4 +45,4 @@ int main(){
     rect r1(a,b);
     r1.printingAns();
     return 0;
-}Object Oriented Proigraming
+}
